@@ -1,0 +1,57 @@
+/* body {
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-image: url("../images/ch2.jpg");
+    background-position: center;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+
+} */
+
+html { 
+    background: url("../images/ch2.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.login-box {
+    width: 400px;
+    height: 420px;
+    background: #fff;
+    color: black;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    border-radius: 10px;
+
+}
+
+.avatar {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+div h3 {
+    margin: 0;
+    padding: 0 0 20px;  
+    text-align: center;
+}
+
+.login-form {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+
+
+

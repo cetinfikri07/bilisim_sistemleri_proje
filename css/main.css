@@ -1,0 +1,293 @@
+.brand-logo {
+    height: 50px;
+}
+
+/* navbar */
+
+
+
+nav div ul li a {
+    color : white !important;
+    padding: 1rem !important;
+}
+
+nav div ul li a:hover {
+    background: #336ea2;
+    border-radius: 4px;
+}
+
+.box-1 {
+    height: 200px;
+
+
+}
+
+.box-2 {
+    height: 150px;
+    padding-top: 50px;
+}
+
+.box-3 {
+    height: 200px;
+}
+
+.slg-img-wrap img {
+    width: 72px;
+    text-align: right;
+    float: right;
+}
+
+
+.img-1 {
+    height: 100%;
+    width: auto;
+    display: flex;
+}
+
+.img-2 {
+    height: 100%;
+    width: 50%;
+    display: flex;
+}
+
+.head-wrap-trn {
+    min-height: 480px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: -120px;
+    position: relative;
+}
+
+
+.sayfa-baslik {
+    padding-top: 120px;
+    color: #fff;
+    position: relative;
+    z-index: 99;
+    text-align: center;
+}
+
+.form-warp {
+    margin-top: 20px;
+}
+
+.way-wrap {
+    width: 100%;
+    display: inline-flex;
+    margin-bottom: 10px;
+}
+
+.radioi {
+    margin-right: 15px;
+}
+
+.cont-r {
+    font-size: 14px;
+}
+
+.inp-inline {
+    display: inline-flex;
+    width: 100%;
+}
+
+.input-wrap {
+    display: inline-flex;
+    width: 100%;
+}
+
+.inp-back {
+    padding: 7px;
+    width: 100%;
+    height: 60px;
+    border: 0px;
+    color: #78909C;
+    font-weight: 600;
+}
+
+.head-wrap {
+    min-height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: -120px;
+    position: relative;
+    z-index: 1;
+}
+
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container.head-container {
+    padding-top: 200px;
+    z-index: 99;
+    position: relative;
+}
+.head-row {
+    padding-bottom: 30px;
+}
+
+.slog-wrap {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.footer {
+    width: 100%;
+    display: block;
+    overflow: hidden;
+    padding : 70px 0 ;
+    box-sizing: border-box;
+    background-color: #18181a;
+    margin-top: 50px;
+
+}
+
+.inner-footer {
+    display: block;
+    margin: 0 auto;
+    width: 1100px;
+    height: 100%;
+}
+
+
+.inner-footer .logo-container {
+    width: 35%;
+    float: left;
+    height: 100%;
+    display: block;
+}
+
+
+.inner-footer .footer-third {
+    width: calc(21.6666666667% - 20px);
+    margin-right: 10px;
+    float: left;
+    height: 100%;
+}
+
+.inner-footer .footer-third:last-child {
+    margin-right: 0px;
+}
+
+.inner-footer .footer-third h1 {
+    font-family: "arial";
+    font-size: 22px;
+    color : white;
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.inner-footer .footer-third a {
+    font-family: "arial";
+    font-size: 18px;
+    color : white;
+    display: block;
+    font-weight: 200;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.cu-carname h3 {
+    font-size: 18px;
+    margin-bottom: 0px;
+    font-weight: 500;
+    width: 75%;
+    padding-top: 10px;
+}
+
+.cont-araclar {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.row .car-unit-row {
+    background: #fff;
+    margin-bottom: 10px;
+    box-shadow: inset 0 0 0 1px #e6e4eb;
+    border-radius: 10px;
+}
+
+.cu-resim-wrap {
+    width: 312.4px;
+    height: 200px;
+    padding-top: 10px ;
+}
+.note {
+    padding-top: 10px;
+}
+
+.fiyat-wrap {
+    padding-top: 10px;
+}
+
+.head-wrap-page {
+    min-height: 340px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: -120px;
+    position: relative;
+    background-position: center;
+}
+
+.cont-turlar {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.tur-unit-wrap {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 0px;
+    border-radius: 5px;
+    box-shadow: 0px 4px 7px rgba(0, 0, 0, 0.09);
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.04);
+}
+
+.tur-image-wrap {
+    height: 260px;
+    overflow: hidden;
+    border-radius: 5px 5px 0px 0px;
+    cursor: pointer;
+    position: relative;
+}
+
+img.tur-image {
+    width: 100%;
+    height: auto;
+    min-height: 100%;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+.tur-title-wrap {
+    margin-bottom: 10px;
+    padding: 10px;
+    color: #546E7A;
+}
+
+.tur-title-wrap h4 {
+    font-size: 18px;
+}
+
+.tur-image-wrap img {
+    width: 100%;
+    height: 260px;
+}
+
+.background-image {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    z-index: 1;
+}

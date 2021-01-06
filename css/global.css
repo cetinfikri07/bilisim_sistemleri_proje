@@ -1,0 +1,19 @@
+.bg-dark-blue {
+    background: #062e51;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.heading-medium {
+    font-size: 1.5rem;
+}
+
+.form-group {
+    padding: 0.25rem 0;
+}
+
+label {
+    color: white;
+}
